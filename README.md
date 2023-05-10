@@ -38,7 +38,7 @@ Customer Service Executive, Global Airport Concierge Ltd, London
 
 (see my linkedin profile for more details)
 
-#### skills
+## Skills
 
  - Methodologies : Agile, Test Driven Development
  - Foreign languages : 
