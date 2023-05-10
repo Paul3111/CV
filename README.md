@@ -1,13 +1,23 @@
-## Your Name
+## Paul Lazar
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals.
+
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/paul-lazar-03469693/)
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+For a complete list, see my [GitHub](https://github.com/Paul3111?tab=repositories).
+
+| Project   | Description | Technologies |
+|---        |---         |---           |
+| [Yahtzee](https://github.com/Paul3111/yahtzee) | A very entertaining dice game (Makers Academy final project). | MERN stack, Jest/Cypress |
+
+**Tech I have worked with** :
+HTML, CSS, Javascript, React, Express, MongoDB, Node
+Ruby, Sinatra, PostgreSQL, Postman
+RSpec, Jest, Cypress
+Python, Bootstrap
+VBA (Excel)
 
 ## Work Experience
 
@@ -33,42 +43,43 @@ bookings.
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
+#### Excellent communicator
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+During my time at Bank of America, I wrote and distributed a daily newsletter to clients, with market commentary and data analysis. I have continued to develop my written communication skills by [blogging](http://codingwithlaura.wordpress.com) about my experience learning to code and I use it to develop a stronger online presence, by combining it with other social media outlets such as [Twitter](https://twitter.com/wilslau).
+I have also taken up coaching at Codebar, a non-profit initiative which runs regular programming workshops.
 
+#### Thrives under pressure
 
-Here's an example
+From having to organise an end-of-year ball during my final year at university, where the bulk of the organisation coincided with completing finals, to completing group [projects](#projects), I have always thrived when working under pressure. It is my strong organisational and time management skills that I have developed over time that allows me to do this.
 
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
+#### Fast learner
 
-#### Another skill
+I earned a full-time offer at Bank of America Merrill Lynch by impressing my line manager with how quickly I picked up an understanding of finance and the technologies that the team used, despite having a scientific background and no previous experience in finance. For our [Makersbnb project](http://github.com/lsewilson/makers-bnb), I learnt Node.js and Express without it being taught on the course and used it to build a fully-functioning Airbnb-style website in a week.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Analytical thinker
 
-#### Another skill
+In my role at Bank of America, I analysed new market data on a daily basis to generate trade ideas. Furthermore, I undertook a project to migrate all of our systems and trade history to a new legal entity. This required careful risk analysis which ensured there was no negative P&L impact on completion.
 
+#### Additional skills
+
+ - Methodologies : Agile, XP, Test Driven Development
+ - Foreign languages : Basic Japanese and French 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (Feb '23 - May '23)
 
-#### Your University / College (start_date to end_date)
+A 16-week intensive development bootcamp, focusing on :
 
-September 2021
+- Agile methodologies
+- Object-oriented design
+- Test driven development and behaviour driven development
+- Pair programming
+- XP values
+
+#### Informal School of IT, Romania (Sep '21)
 Junior Python Developer: Python
-Informal School of IT, Online
+, Online
 A four month "Python 
 Development" course. I have 
 worked with django, bootstrap, 
@@ -97,6 +108,7 @@ Cluj-Napoca, Romania, Romania
 
 That in some arguable way make you a better software developer or well-rounded person
 
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+## Hobbies and Interests
+- **Cycling** : aaa.
+- **Yoga** : To stretch out after a day at the computer.
+- **Baking** : I make an excellent lemon drizzle!
