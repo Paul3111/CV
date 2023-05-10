@@ -65,8 +65,8 @@ A 16-week intensive development bootcamp, focusing on :
 
 2009
 - Master's Degree: Banking and Capital Markets
-- Babeş-Bolyai University, Bistrita, 
-- Romania
+- Babeş-Bolyai University, 
+- Bistrita, Romania
 
 2009
 - Certificate: Risk Analysis / Banking Management / Financial Markets
