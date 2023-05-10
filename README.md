@@ -42,10 +42,10 @@ Customer Service Executive, Global Airport Concierge Ltd, London
 
  - Methodologies : Agile, Test Driven Development
  - Foreign languages : 
-  - Romanian is my native language
-  - English (C2)
-  - Basic French, Spanish and Italian
-  - Full UK driving licence
+  -- Romanian is my native language
+  -- English (C2)
+  -- Basic French, Spanish and Italian
+  -- Full UK driving licence
 
 ## Education
 
