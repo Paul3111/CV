@@ -59,24 +59,24 @@ A 16-week intensive development bootcamp, focusing on :
 - Pair programming
 
 #### Informal School of IT, Romania (Sep '21) - Online
-Junior Developer: Python
-A four month "Python Development" course.
-I have worked with django, bootstrap, github, matplotlib, pandas, pillow, pyautogui.
+- Junior Developer: Python
+- A four month "Python Development" course.
+- I have worked with django, bootstrap, github, matplotlib, pandas, pillow, pyautogui.
 
 2009
-Master's Degree: Banking and Capital Markets
-Babeş-Bolyai University, Bistrita, 
-Romania
+- Master's Degree: Banking and Capital Markets
+- Babeş-Bolyai University, Bistrita, 
+- Romania
 
 2009
-Certificate: Risk Analysis / Banking Management / Financial Markets
-Romanian Banking Institute, 
-Bistrita, Romania
+- Certificate: Risk Analysis / Banking Management / Financial Markets
+- Romanian Banking Institute, 
+- Bistrita, Romania
 
 2007
-Bachelor's Degree: Finance and Banking
-Dimitrie Cantemir University, 
-Cluj-Napoca, Romania
+- Bachelor's Degree: Finance and Banking
+- Dimitrie Cantemir University, 
+- Cluj-Napoca, Romania
 
 ## Hobbies and Interests
 - **Speed cubing** : I own approximately 40 cubes, cuboids and other puzzles. I can solve the classical 3x3x3 cube in under a minute!
