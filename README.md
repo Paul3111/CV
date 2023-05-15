@@ -11,6 +11,7 @@ For a complete list, see my [GitHub](https://github.com/Paul3111?tab=repositorie
 | Project   | Description | Technologies |
 |---        |---         |---           |
 | [Yahtzee](https://github.com/Paul3111/yahtzee) | A very entertaining dice game (Makers Academy final project). | MERN stack, Jest/Cypress |
+| [MakersBNB](https://github.com/Fiona-1981/makersbnb-ruby-seed) | An AirBNB clone (Makers Academy first team project). | Ruby, Sinatra, RSpec |
 
 **Tech I have worked with** :
 HTML, CSS, Javascript, React, Express, MongoDB, Node,
