@@ -22,8 +22,7 @@ VBA (Excel)
 
 ## Work Experience
 
-October 2017 - November 2022
-Customer Support, Martin Lavell Ltd, Slough
+#### Customer Support, Martin Lavell Ltd, Slough (Oct '17 - Nov '22)
 - Dealing with all daily admin tasks that keep the business running.
 - Providing training to new and existing colleagues.
 - Responsible for our largest media customers.
@@ -31,8 +30,7 @@ Customer Support, Martin Lavell Ltd, Slough
 - Processing all digital subscriptions for our customers.
 - Key role in improving the company's daily processes (automation).
 
-April 2015 - April 2017
-Customer Service Executive, Global Airport Concierge Ltd, London
+#### Customer Service Executive, Global Airport Concierge Ltd, London (Apr '15 - Apr '17)
 - Booking car transfers, lounge access, Meet & Greet and baggage porter services in most airports around the world.
 - Providing training to new members of staff, managing service issues, dealing with suppliers.
 - Completing all of the assigned operational checks regarding client bookings.
@@ -66,18 +64,15 @@ A 16-week intensive development bootcamp, focusing on :
 
 2009
 - Master's Degree: Banking and Capital Markets
-- Babeş-Bolyai University, 
-- Bistrita, Romania
+- Babeş-Bolyai University
 
 2009
 - Certificate: Risk Analysis / Banking Management / Financial Markets
-- Romanian Banking Institute, 
-- Bistrita, Romania
+- Romanian Banking Institute
 
 2007
 - Bachelor's Degree: Finance and Banking
-- Dimitrie Cantemir University, 
-- Cluj-Napoca, Romania
+- Dimitrie Cantemir University
 
 ## Hobbies and Interests
 - **Speed cubing** : I own approximately 40 cubes, cuboids and other puzzles. I can solve the classical 3x3x3 cube in under a minute!
