@@ -2,7 +2,7 @@
 
 Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals.
 
-[Projects](#projects) | [Work Experience](#work-experience)| [Skills](#skills) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/paul-lazar-03469693/)
+[Projects](#projects) | [Experience](#work-experience)| [Skills](#skills) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/paul-lazar-03469693/)
 
 ## Projects
 
@@ -20,7 +20,7 @@ RSpec, Jest, Cypress,
 Python, Bootstrap,
 VBA (Excel)
 
-## Work Experience
+## Experience
 
 #### Customer Support, Martin Lavell Ltd, Slough (Oct '17 - Nov '22)
 - Dealing with all daily admin tasks that keep the business running.
