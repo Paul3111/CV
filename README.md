@@ -2,7 +2,7 @@
 
 I am an organized and dependable individual who thrives on managing multiple priorities with a positive attitude. What excites me the most about coding is the endless potential it offers to create innovative solutions and shape the future. As someone who made a career change into the tech industry, I am driven by the desire to be part of a dynamic field that is constantly evolving and pushing boundaries. I am always eager to take on additional responsibilities to contribute to my team's goals and make a meaningful impact.
 
-[Projects](#projects) | [Experience](#experience)| [Skills](#skills) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/paul-lazar-03469693/)
+[Projects](#projects) | [Experience](#experience)| [Other Skills](#other-skills) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/paul-lazar-03469693/)
 
 ## Projects
 
@@ -44,16 +44,15 @@ VBA (Excel)
 - Key role in improving the company's daily processes (automation).
 
 #### Agency Staff, Reed, London (Apr '17 – Oct '17)
-•	I worked for companies such as L'Oreal (Hammersmith) where I helped to organise the L'Oreal Colour Trophy Awards 2017 and NPW (London, SW15 2TR) where I processed orders for their customers.
+-	I worked for companies such as L'Oreal (Hammersmith) where I helped to organise the L'Oreal Colour Trophy Awards 2017 and NPW (London, SW15 2TR) where I processed orders for their customers.
 
 #### Customer Service Executive, Global Airport Concierge Ltd, London (Apr '15 - Apr '17)
 - Booking car transfers, lounge access, Meet & Greet and baggage porter services in most airports around the world.
 - Providing training to new members of staff, managing service issues, dealing with suppliers.
 - Completing all of the assigned operational checks regarding client bookings.
 
-## Skills
+## Other Skills
 
- - Methodologies: Agile, Test Driven Development
  - Foreign languages : 
    - Romanian is my native language
    - English (C2)
