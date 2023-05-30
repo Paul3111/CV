@@ -28,7 +28,7 @@ VBA (Excel)
 -	OOP principles (encapsulation, inheritance, polymorphism, abstraction) and MVC. Applied them in the Makers BNB project for modular and reusable code.
 -	TDD and BDD using RSpec, Jest, and Cypress. Implemented comprehensive tests using TDD, ensuring code quality and catching bugs early.
 -	Building web apps using React, JavaScript, Node.js, Express, HTML, and CSS. Set up projects, defined DB structure, and implemented layouts.
--	Skilled in Ruby, ERB, and Sinatra for web app development. Handled backend functionality and created dynamic web pages.
+-	Used Ruby, ERB, and Sinatra for web app development. Handled backend functionality and created dynamic web pages.
 -	Making HTTP requests to external APIs
 -	Working with databases (Postgresql, MongoDB) for efficient data storage and retrieval.
 -	Used Git and GitHub for version control and collaboration with team members.
