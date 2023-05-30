@@ -15,7 +15,7 @@ For a complete list, see my [GitHub](https://github.com/Paul3111?tab=repositorie
 | [Notes App](https://github.com/Paul3111/notes-app) | A simple notes app. | JavaScript, HTML, CSS |
 | [News Summary](https://github.com/Paul3111/news-summary-challenge) | An app that fetches headlines from Guardian API. | JavaScript, HTML, CSS |
 
-**Tech I have worked with** :
+**Tech I have worked with**:
 HTML, CSS, Javascript, React, Express, MongoDB, Node,
 Ruby, Sinatra, PostgreSQL, Postman,
 RSpec, Jest, Cypress,
@@ -53,7 +53,7 @@ VBA (Excel)
 
 ## Skills
 
- - Methodologies : Agile, Test Driven Development
+ - Methodologies: Agile, Test Driven Development
  - Foreign languages : 
    - Romanian is my native language
    - English (C2)
@@ -64,11 +64,8 @@ VBA (Excel)
 
 #### Makers Academy (Feb '23 - May '23)
 
-A 16-week intensive development bootcamp, focusing on :
-
+- A 16-week intensive development bootcamp
 - Agile methodologies
-- Object-oriented design
-- Test driven development and behaviour driven development
 - Pair programming
 
 #### Informal School of IT, Romania (Sep '21) - Online
