@@ -24,20 +24,32 @@ VBA (Excel)
 
 ## Experience
 
+#### Makers Academy - 16-week Immersive Software Development Bootcamp (Feb '23 - May '23)
+-	OOP principles (encapsulation, inheritance, polymorphism, abstraction) and MVC. Applied them in the Makers BNB project for modular and reusable code.
+-	TDD and BDD using RSpec, Jest, and Cypress. Implemented comprehensive tests using TDD, ensuring code quality and catching bugs early.
+-	Building web apps using React, JavaScript, Node.js, Express, HTML, and CSS. Set up projects, defined DB structure, and implemented layouts.
+-	Skilled in Ruby, ERB, and Sinatra for web app development. Handled backend functionality and created dynamic web pages.
+-	Making HTTP requests to external APIs
+-	Working with databases (Postgresql, MongoDB) for efficient data storage and retrieval.
+-	Used Git and GitHub for version control and collaboration with team members.
+-	Agile methodologies and pair programming. Prioritized tasks, conducted retrospectives, and reviewed code as a team.
+-	Experienced the benefits of TDD firsthand, including improved code quality, maintainability, and confidence in code changes.
+
 #### Customer Support, Martin Lavell Ltd, Slough (Oct '17 - Nov '22)
 - Dealing with all daily admin tasks that keep the business running.
 - Providing training to new and existing colleagues.
-- Responsible for our largest media customers.
+- Responsible for our largest media customers (BBC, Economist, Channel 4, Kantar Media).
 - Answering client calls effectively, resolving any delivery issues.
 - Processing all digital subscriptions for our customers.
 - Key role in improving the company's daily processes (automation).
+
+#### Agency Staff, Reed, London (Apr '17 – Oct '17)
+•	I worked for companies such as L'Oreal (Hammersmith) where I helped to organise the L'Oreal Colour Trophy Awards 2017 and NPW (London, SW15 2TR) where I processed orders for their customers.
 
 #### Customer Service Executive, Global Airport Concierge Ltd, London (Apr '15 - Apr '17)
 - Booking car transfers, lounge access, Meet & Greet and baggage porter services in most airports around the world.
 - Providing training to new members of staff, managing service issues, dealing with suppliers.
 - Completing all of the assigned operational checks regarding client bookings.
-
-(see my linkedin profile for more details)
 
 ## Skills
 
