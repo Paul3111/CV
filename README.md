@@ -1,6 +1,6 @@
 ## Paul Lazar
 
-Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals.
+I am an organized and dependable individual who thrives on managing multiple priorities with a positive attitude. What excites me the most about coding is the endless potential it offers to create innovative solutions and shape the future. As someone who made a career change into the tech industry, I am driven by the desire to be part of a dynamic field that is constantly evolving and pushing boundaries. I am always eager to take on additional responsibilities to contribute to my team's goals and make a meaningful impact.
 
 [Projects](#projects) | [Experience](#experience)| [Skills](#skills) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/paul-lazar-03469693/)
 
