@@ -8,12 +8,12 @@ I am an organized and dependable individual who thrives on managing multiple pri
 
 For a complete list, see my [GitHub](https://github.com/Paul3111?tab=repositories).
 
-| Project   |Link | Description | Technologies |
-|---        |---  |---         |---           |
-| [Yahtzee](https://github.com/Paul3111/yahtzee) | https://notes-app-opmc.onrender.com/ | A very entertaining dice game (Makers Academy final project). | MERN stack, Jest/Cypress |
-| [MakersBNB](https://github.com/Paul3111/MakersBNB) | | An AirBNB clone (Makers Academy first team project). | Ruby, Sinatra, PostgreSQL, RSpec |
-| [Notes App](https://github.com/Paul3111/notes-app) | | A simple notes app. | JavaScript, HTML, CSS |
-| [News Summary](https://github.com/Paul3111/news-summary-challenge) | | An app that fetches headlines from Guardian API. | JavaScript, HTML, CSS |
+| Project   | Description | Technologies |
+|---        |---         |---           |
+| [Yahtzee](https://github.com/Paul3111/yahtzee) | A very entertaining dice game (Makers Academy final project). | MERN stack, Jest/Cypress |
+| [MakersBNB](https://github.com/Paul3111/MakersBNB) | An AirBNB clone (Makers Academy first team project). | Ruby, Sinatra, PostgreSQL, RSpec |
+| [Notes App](https://github.com/Paul3111/notes-app) | A simple notes app. | JavaScript, HTML, CSS |
+| [News Summary](https://github.com/Paul3111/news-summary-challenge) | An app that fetches headlines from Guardian API. | JavaScript, HTML, CSS |
 
 **Tech I have worked with**:
 HTML, CSS, Javascript, React, Express, MongoDB, Node,
