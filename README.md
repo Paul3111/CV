@@ -8,12 +8,20 @@ I am an organized and dependable individual who thrives on managing multiple pri
 
 For a complete list, see my [GitHub](https://github.com/Paul3111?tab=repositories).
 
-| Project   | Description | Technologies |
-|---        |---         |---           |
-| [Yahtzee](https://github.com/Paul3111/yahtzee) | A very entertaining dice game (Makers Academy final project). | MERN stack, Jest/Cypress |
-| [MakersBNB](https://github.com/Paul3111/MakersBNB) | An AirBNB clone (Makers Academy first team project). | Ruby, Sinatra, PostgreSQL, RSpec |
-| [Notes App](https://github.com/Paul3111/notes-app) | A simple notes app. | JavaScript, HTML, CSS |
-| [News Summary](https://github.com/Paul3111/news-summary-challenge) | An app that fetches headlines from Guardian API. | JavaScript, HTML, CSS |
+Projects:
+### [Portfolio App](https://paul-lazar.netlify.app/)
+- Portfolio app created after graduating from Makers Academy (REACT).
+- Using most common hooks in React, contact form with email functionality.
+- Slightly more advanced CSS styling, using Swiper, colour themes.
+### [EPC API](https://epc-api.netlify.app/)
+- A simple API built in three hours as a challenge for my first job in IT.
+- The API fetches energy consumption data based on a postcode.
+### [Yahtzee](https://github.com/Paul3111/yahtzee)
+- A very entertaining dice game (Makers Academy final project - collaborative project).
+- MERN stack, Jest/Cypress.
+### [News Summary](https://github.com/Paul3111/news-summary-challenge)
+- An app that fetches headlines from Guardian API.
+- JavaScript, HTML, CSS.
 
 **Tech I have worked with**:
 HTML, CSS, Javascript, React, Express, MongoDB, Node,
