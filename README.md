@@ -24,6 +24,17 @@ VBA (Excel)
 
 ## Experience
 
+#### Junior Web Developer, Absowebly Ltd, Ashford, Surrey, UK (Aug '23 - Current)
+-	Working with PHP, JavaScript and CSS on a daily basis. Pushing code live for less complex customer sites.
+-	Occasionally responsible for small projects that require prior planning.
+-	Attending customer meetings to discussing new projects or changes to existing ones.
+-	Currently working on implementing a supplier API (Get Your Guide platform).
+-	Working with cookies, google ads tracking, SQL queries, data encryption
+-	Using in-house functions on forms and input fields for maintaining the customer’s sites secure.
+-	Working with Affinity Designer and SVGs, when required.
+-	Optimizing websites using Google Lighthouse.
+-	Amending and manipulating feed files for Google Shopping. Using google console for various tasks.
+
 #### Makers Academy - 16-week Immersive Software Development Bootcamp (Feb '23 - May '23)
 -	OOP principles (encapsulation, inheritance, polymorphism, abstraction) and MVC. Applied them in the Makers BNB project for modular and reusable code.
 -	TDD and BDD using RSpec, Jest, and Cypress. Implemented comprehensive tests using TDD, ensuring code quality and catching bugs early.
